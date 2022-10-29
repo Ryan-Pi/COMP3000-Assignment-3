@@ -1,72 +1,72 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<testsuite hostname="DESKTOP-K54BJ9U" name="funlang.ExecTests" tests="51" errors="0" failures="10" skipped="0" time="0.262" timestamp="2022-10-30T07:43:35">
+<testsuite hostname="DESKTOP-K54BJ9U" name="funlang.ExecTests" tests="51" errors="0" failures="10" skipped="0" time="0.181" timestamp="2022-10-30T07:48:20">
                      <properties>
       <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/><property name="java.specification.version" value="11"/><property name="sun.cpu.isalist" value="amd64"/><property name="sun.jnu.encoding" value="Cp1252"/><property name="sbt.log.format" value="true"/><property name="sun.arch.data.model" value="64"/><property name="java.vendor.url" value="https://openjdk.java.net/"/><property name="sun.boot.library.path" value="C:\Program Files\OpenJDK\openjdk-11.0.13_8\bin"/><property name="sun.java.command" value="xsbt.boot.Boot"/><property name="jdk.debug" value="release"/><property name="sun.stderr.encoding" value="cp437"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2021-10-19"/><property name="java.home" value="C:\Program Files\OpenJDK\openjdk-11.0.13_8"/><property name="file.separator" value="\"/><property name="java.vm.compressedOopsMode" value="32-bit"/><property name="line.separator" value="
-"/><property name="sun.stdout.encoding" value="cp437"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="user.script" value=""/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="11.0.13+8"/><property name="user.name" value="sword"/><property name="file.encoding" value="Cp1252"/><property name="jnidispatch.path" value="C:\Users\sword\AppData\Local\Temp\jna-109860349\jna6761549071180009323.dll"/><property name="java.vendor.version" value="18.9"/><property name="jna.loaded" value="true"/><property name="java.io.tmpdir" value="C:\Users\sword\AppData\Local\Temp\"/><property name="java.version" value="11.0.13"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/><property name="sun.os.patch.level" value=""/><property name="java.library.path" value="C:\Program Files\OpenJDK\openjdk-11.0.13_8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\OpenJDK\openjdk-11.0.13_8\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\OpenJDK\openjdk-11.0.13_8\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\sbt\bin;C:\Users\sword\AppData\Local\Microsoft\WindowsApps;C:\Users\sword\AppData\Local\GitHubDesktop\bin;C:\Users\sword\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sword\AppData\Roaming\npm;C:\Users\sword\AppData\Local\Android\Sdk\platform-tools;;."/><property name="java.vendor" value="Oracle Corporation"/><property name="scala.ext.dirs" value="C:\Users\sword\.sbt\0.13\java9-rt-ext-oracle_corporation_11_0_13"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="sun.desktop" value="windows"/><property name="java.class.path" value="C:\Program Files (x86)\sbt\bin\sbt-launch.jar"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="user.variant" value=""/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="Australia/Sydney"/><property name="os.name" value="Windows 10"/><property name="java.vm.specification.version" value="11"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="AU"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="C:\Users\sword"/><property name="user.language" value="en"/><property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/><property name="jline.esc.timeout" value="0"/><property name="path.separator" value=";"/><property name="os.version" value="10.0"/><property name="jna.nosys" value="true"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/><property name="user.dir" value="C:\Users\sword\Desktop\COMP3000\ass3\Assignment 3"/><property name="os.arch" value="amd64"/><property name="java.vm.info" value="mixed mode"/><property name="java.vm.version" value="11.0.13+8"/><property name="java.class.version" value="55.0"/>
+"/><property name="sun.stdout.encoding" value="cp437"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="user.script" value=""/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="11.0.13+8"/><property name="user.name" value="sword"/><property name="file.encoding" value="Cp1252"/><property name="jnidispatch.path" value="C:\Users\sword\AppData\Local\Temp\jna-109860349\jna9439106906665810389.dll"/><property name="java.vendor.version" value="18.9"/><property name="jna.loaded" value="true"/><property name="java.io.tmpdir" value="C:\Users\sword\AppData\Local\Temp\"/><property name="java.version" value="11.0.13"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/><property name="sun.os.patch.level" value=""/><property name="java.library.path" value="C:\Program Files\OpenJDK\openjdk-11.0.13_8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\OpenJDK\openjdk-11.0.13_8\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\OpenJDK\openjdk-11.0.13_8\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\sbt\bin;C:\Users\sword\AppData\Local\Microsoft\WindowsApps;C:\Users\sword\AppData\Local\GitHubDesktop\bin;C:\Users\sword\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sword\AppData\Roaming\npm;C:\Users\sword\AppData\Local\Android\Sdk\platform-tools;;."/><property name="java.vendor" value="Oracle Corporation"/><property name="scala.ext.dirs" value="C:\Users\sword\.sbt\0.13\java9-rt-ext-oracle_corporation_11_0_13"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="sun.desktop" value="windows"/><property name="java.class.path" value="C:\Program Files (x86)\sbt\bin\sbt-launch.jar"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="user.variant" value=""/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="Australia/Sydney"/><property name="os.name" value="Windows 10"/><property name="java.vm.specification.version" value="11"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="AU"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="C:\Users\sword"/><property name="user.language" value="en"/><property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/><property name="jline.esc.timeout" value="0"/><property name="path.separator" value=";"/><property name="os.version" value="10.0"/><property name="jna.nosys" value="true"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/><property name="user.dir" value="C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3"/><property name="os.arch" value="amd64"/><property name="java.vm.info" value="mixed mode"/><property name="java.vm.version" value="11.0.13+8"/><property name="java.class.version" value="55.0"/>
     </properties>
-                     <testcase classname="funlang.ExecTests" name="IF: a true less-than conditional expression evaluates to the correct result" time="0.059">
+                     <testcase classname="funlang.ExecTests" name="IF: a true less-than conditional expression evaluates to the correct result" time="0.054">
                                                  
                                                </testcase><testcase classname="funlang.ExecTests" name="a false less-than conditional expression evaluates to the correct result" time="0.003">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="translate if(true) 3 else 4" time="0.002">
+                                               </testcase><testcase classname="funlang.ExecTests" name="translate if(true) 3 else 4" time="0.001">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="LIST: list()" time="0.001">
+                                               </testcase><testcase classname="funlang.ExecTests" name="LIST: list()" time="0.007">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="list (4, 3, 7)" time="0.0">
+                                               </testcase><testcase classname="funlang.ExecTests" name="list (4, 3, 7)" time="0.003">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="APP EXP: head(List(2, 1, 4))" time="0.0">
+                                               </testcase><testcase classname="funlang.ExecTests" name="APP EXP: head(List(2, 1, 4))" time="0.003">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="BLOCK ONE DEF: a single def evaluates to the correct result" time="0.027">
+                                               </testcase><testcase classname="funlang.ExecTests" name="BLOCK ONE DEF: a single def evaluates to the correct result" time="0.009">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="a block with a calculation evaluates to the correct result" time="0.003">
+                                               </testcase><testcase classname="funlang.ExecTests" name="a block with a calculation evaluates to the correct result" time="0.002">
                                                  
                                                </testcase><testcase classname="funlang.ExecTests" name="translate { val x : Int = 3; x + 4 }" time="0.002">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="BLOCK ONE DEF FUN: a block with a single function definition evaluates to the correct result" time="0.004">
+                                               </testcase><testcase classname="funlang.ExecTests" name="BLOCK ONE DEF FUN: a block with a single function definition evaluates to the correct result" time="0.002">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="a single function block evaluates to the correct result" time="0.002">
+                                               </testcase><testcase classname="funlang.ExecTests" name="a single function block evaluates to the correct result" time="0.001">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name=" ; f(4) }" time="0.003">
+                                               </testcase><testcase classname="funlang.ExecTests" name=" ; f(4) }" time="0.002">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="BLOCK MULT DEF: a multiple def block evaluates to the correct result (use first def)" time="0.003">
+                                               </testcase><testcase classname="funlang.ExecTests" name="BLOCK MULT DEF: a multiple def block evaluates to the correct result (use first def)" time="0.002">
                                                  
                                                </testcase><testcase classname="funlang.ExecTests" name="a multiple def block evaluates to the correct result (use second def)" time="0.002">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="BLOCK MULT DEF FUN: a multiple function block evaluates to the correct result (use first fun)" time="0.005">
+                                               </testcase><testcase classname="funlang.ExecTests" name="BLOCK MULT DEF FUN: a multiple function block evaluates to the correct result (use first fun)" time="0.003">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name=" ; (f 4) + (g 4) }" time="0.004">
+                                               </testcase><testcase classname="funlang.ExecTests" name=" ; (f 4) + (g 4) }" time="0.002">
                                                  
                                                </testcase><testcase classname="funlang.ExecTests" name="BLOCK NESTED ONE DEF: simple block in block" time="0.002">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="BLOCK NESTED ONE DEF FUN: backward reference is evaluated correctly (same group)" time="0.004">
+                                               </testcase><testcase classname="funlang.ExecTests" name="BLOCK NESTED ONE DEF FUN: backward reference is evaluated correctly (same group)" time="0.003">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="a function using a val is evaluated correctly (1)" time="0.003">
+                                               </testcase><testcase classname="funlang.ExecTests" name="a function using a val is evaluated correctly (1)" time="0.001">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="a function using a val is evaluated correctly (2)" time="0.003">
+                                               </testcase><testcase classname="funlang.ExecTests" name="a function using a val is evaluated correctly (2)" time="0.002">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="BLOCK COMPLEX: a multiple function block with vals before and after evaluates to the correct result (use both funs)" time="0.007">
+                                               </testcase><testcase classname="funlang.ExecTests" name="BLOCK COMPLEX: a multiple function block with vals before and after evaluates to the correct result (use both funs)" time="0.003">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="call with call argument is evaluated correctly" time="0.004">
+                                               </testcase><testcase classname="funlang.ExecTests" name="call with call argument is evaluated correctly" time="0.003">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name=" ; val z = f(w); f(z) + g(4) }" time="0.005">
+                                               </testcase><testcase classname="funlang.ExecTests" name=" ; val z = f(w); f(z) + g(4) }" time="0.003">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="SIMPLE MATCHES: translate match case 3 =&gt; 2" time="0.009">
+                                               </testcase><testcase classname="funlang.ExecTests" name="SIMPLE MATCHES: translate match case 3 =&gt; 2" time="0.004">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="execute match case 3 =&gt; 2" time="0.001">
+                                               </testcase><testcase classname="funlang.ExecTests" name="execute match case 3 =&gt; 2" time="0.0">
                                                  
                                                </testcase><testcase classname="funlang.ExecTests" name="execute match case 3 =&gt; 2 with 4" time="0.001">
                                                  
                                                </testcase><testcase classname="funlang.ExecTests" name="execute match case false = 6" time="0.002">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="translate match case n = 2 * n" time="0.003">
+                                               </testcase><testcase classname="funlang.ExecTests" name="translate match case n = 2 * n" time="0.001">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="execute match case n =&gt; 2 * n with 3" time="0.001">
+                                               </testcase><testcase classname="funlang.ExecTests" name="execute match case n =&gt; 2 * n with 3" time="0.0">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="translate match case _ =&gt; 7" time="0.003">
+                                               </testcase><testcase classname="funlang.ExecTests" name="translate match case _ =&gt; 7" time="0.001">
                                                  
                                                </testcase><testcase classname="funlang.ExecTests" name="execute match case _ = 7 with 3" time="0.0">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="FACTORIAL: translate fac" time="0.044">
+                                               </testcase><testcase classname="funlang.ExecTests" name="FACTORIAL: translate fac" time="0.019">
                                                  <failure message="Expected List(IClosure(fac,List(IVar(fac), IInt(3), ICall(), IPopEnv())), IClosure(a,List(IClosure(x,List(IVar(x), IInt(0), IEqual(), IBranch(List(IInt(1)),List(IClosure(n,List(IVar(n), IVar(fac), IVar(n), IInt(1), ISub(), ICall(), IMul(), IPopEnv())), IVar(x), ICall())), IPopEnv())), IVar(a), ICall(), IPopEnv())), ICall(), IPrint()), but got List(IClosure(fac,List(IVar(fac), IInt(3), ICall(), IPopEnv())), IClosure(a,List(IClosure(x,List(IVar(x), IInt(0), IEqual(), IBranch(List(IInt(1)),List(IInt(999))), IPopEnv())), IVar(a), ICall(), IPopEnv())), ICall(), IPrint()) wrong translation output" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: Expected List(IClosure(fac,List(IVar(fac), IInt(3), ICall(), IPopEnv())), IClosure(a,List(IClosure(x,List(IVar(x), IInt(0), IEqual(), IBranch(List(IInt(1)),List(IClosure(n,List(IVar(n), IVar(fac), IVar(n), IInt(1), ISub(), ICall(), IMul(), IPopEnv())), IVar(x), ICall())), IPopEnv())), IVar(a), ICall(), IPopEnv())), ICall(), IPrint()), but got List(IClosure(fac,List(IVar(fac), IInt(3), ICall(), IPopEnv())), IClosure(a,List(IClosure(x,List(IVar(x), IInt(0), IEqual(), IBranch(List(IInt(1)),List(IInt(999))), IPopEnv())), IVar(a), ICall(), IPopEnv())), ICall(), IPrint()) wrong translation output
 	at org.scalatest.Assertions.newAssertionFailedException(Assertions.scala:528)
 	at org.scalatest.Assertions.newAssertionFailedException$(Assertions.scala:527)
@@ -148,7 +148,7 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:829)
 </failure>
-                                               </testcase><testcase classname="funlang.ExecTests" name="execute fac with 3" time="0.0">
+                                               </testcase><testcase classname="funlang.ExecTests" name="execute fac with 3" time="0.001">
                                                  <failure message="Expected &quot;[6]
 &quot;, but got &quot;[999]
 &quot; wrong execution output" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: Expected &quot;[6]
@@ -234,7 +234,7 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:829)
 </failure>
-                                               </testcase><testcase classname="funlang.ExecTests" name="LIST PATTERNS: execute case List()" time="0.0">
+                                               </testcase><testcase classname="funlang.ExecTests" name="LIST PATTERNS: execute case List()" time="0.008">
                                                  <failure message="int and int expected in mul" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: int and int expected in mul
 	at org.scalatest.Assertions.newAssertionFailedException(Assertions.scala:528)
 	at org.scalatest.Assertions.newAssertionFailedException$(Assertions.scala:527)
@@ -316,7 +316,7 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:829)
 </failure>
-                                               </testcase><testcase classname="funlang.ExecTests" name="execute case List(8)" time="0.016">
+                                               </testcase><testcase classname="funlang.ExecTests" name="execute case List(8)" time="0.002">
                                                  <failure message="int and int expected in mul" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: int and int expected in mul
 	at org.scalatest.Assertions.newAssertionFailedException(Assertions.scala:528)
 	at org.scalatest.Assertions.newAssertionFailedException$(Assertions.scala:527)
@@ -398,7 +398,7 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:829)
 </failure>
-                                               </testcase><testcase classname="funlang.ExecTests" name="execute case List(k)" time="0.003">
+                                               </testcase><testcase classname="funlang.ExecTests" name="execute case List(k)" time="0.002">
                                                  <failure message="int and int expected in mul" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: int and int expected in mul
 	at org.scalatest.Assertions.newAssertionFailedException(Assertions.scala:528)
 	at org.scalatest.Assertions.newAssertionFailedException$(Assertions.scala:527)
@@ -480,7 +480,7 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:829)
 </failure>
-                                               </testcase><testcase classname="funlang.ExecTests" name="execute case List(_, u)" time="0.004">
+                                               </testcase><testcase classname="funlang.ExecTests" name="execute case List(_, u)" time="0.003">
                                                  <failure message="int and int expected in mul" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: int and int expected in mul
 	at org.scalatest.Assertions.newAssertionFailedException(Assertions.scala:528)
 	at org.scalatest.Assertions.newAssertionFailedException$(Assertions.scala:527)
@@ -562,7 +562,7 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:829)
 </failure>
-                                               </testcase><testcase classname="funlang.ExecTests" name="execute case List(r, 1, s)" time="0.004">
+                                               </testcase><testcase classname="funlang.ExecTests" name="execute case List(r, 1, s)" time="0.003">
                                                  <failure message="int and int expected in mul" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: int and int expected in mul
 	at org.scalatest.Assertions.newAssertionFailedException(Assertions.scala:528)
 	at org.scalatest.Assertions.newAssertionFailedException$(Assertions.scala:527)
@@ -644,7 +644,7 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:829)
 </failure>
-                                               </testcase><testcase classname="funlang.ExecTests" name="CONS PATTERNS: execute case 3::_" time="0.005">
+                                               </testcase><testcase classname="funlang.ExecTests" name="CONS PATTERNS: execute case 3::_" time="0.004">
                                                  <failure message="int and int expected in mul" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: int and int expected in mul
 	at org.scalatest.Assertions.newAssertionFailedException(Assertions.scala:528)
 	at org.scalatest.Assertions.newAssertionFailedException$(Assertions.scala:527)
@@ -726,7 +726,7 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:829)
 </failure>
-                                               </testcase><testcase classname="funlang.ExecTests" name="execute case g::h" time="0.005">
+                                               </testcase><testcase classname="funlang.ExecTests" name="execute case g::h" time="0.003">
                                                  <failure message="value expected for print" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: value expected for print
 	at org.scalatest.Assertions.newAssertionFailedException(Assertions.scala:528)
 	at org.scalatest.Assertions.newAssertionFailedException$(Assertions.scala:527)
@@ -808,7 +808,7 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:829)
 </failure>
-                                               </testcase><testcase classname="funlang.ExecTests" name="execute len(List(7, 4, 7))" time="0.004">
+                                               </testcase><testcase classname="funlang.ExecTests" name="execute len(List(7, 4, 7))" time="0.002">
                                                  <failure message="value expected for print" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: value expected for print
 	at org.scalatest.Assertions.newAssertionFailedException(Assertions.scala:528)
 	at org.scalatest.Assertions.newAssertionFailedException$(Assertions.scala:527)
@@ -892,19 +892,19 @@
 </failure>
                                                </testcase><testcase classname="funlang.ExecTests" name="a true expression evaluates to the correct result" time="0.001">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="a false expression evaluates to the correct result" time="0.0">
+                                               </testcase><testcase classname="funlang.ExecTests" name="a false expression evaluates to the correct result" time="0.001">
                                                  
                                                </testcase><testcase classname="funlang.ExecTests" name="app expression with tail is translated correctly" time="0.002">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="app expression with length is translated correctly" time="0.001">
+                                               </testcase><testcase classname="funlang.ExecTests" name="app expression with length is translated correctly" time="0.002">
                                                  
                                                </testcase><testcase classname="funlang.ExecTests" name="list with one element is tranlated correctly" time="0.001">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="list with two elements is translated correctly" time="0.001">
+                                               </testcase><testcase classname="funlang.ExecTests" name="list with two elements is translated correctly" time="0.0">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="list with a non-integer expression is translated correctly" time="0.0">
+                                               </testcase><testcase classname="funlang.ExecTests" name="list with a non-integer expression is translated correctly" time="0.001">
                                                  
-                                               </testcase><testcase classname="funlang.ExecTests" name="list with multiple non-integer expressions is handled properly" time="0.001">
+                                               </testcase><testcase classname="funlang.ExecTests" name="list with multiple non-integer expressions is handled properly" time="0.0">
                                                  
                                                </testcase><testcase classname="funlang.ExecTests" name="list with integer and non-integer expressions is handled properly" time="0.001">
                                                  

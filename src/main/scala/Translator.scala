@@ -182,10 +182,6 @@ object Translator {
                     case (a,b) =>
                         a match {
                             case LiteralPat(d) =>
-                                //NOTE: rewrite implementation to be similar to IdentPat
-                                //genall(translateExpression(LamExp(IdnDef("x", IntType()), IfExp(EqualExp(IdnUse("x"),d), b, IntExp(999)))))
-                                // genall(translateExpression(exp))
-                                // gen(ICall ())
                                 genall(translateExpression(BlockExp(Vector(Defn(IdnDef("x", IntType()), exp)), IfExp(EqualExp(IdnUse("x"),d), b, IntExp(999)))))
 
                             case IdentPat(d) =>

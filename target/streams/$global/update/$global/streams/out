@@ -2536,37 +2536,37 @@
 [0m[[0m[0mdebug[0m] [0m[0m	resolved ivy file produced in cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m:: downloading artifacts ::[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.bitbucket.inkytonik.dsprofile#dsprofile_2.12;0.4.0!dsprofile_2.12.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.bitbucket.inkytonik.kiama#kiama_2.12;2.1.0!kiama_2.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.google.guava#guava;21.0!guava.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.bitbucket.inkytonik.dsinfo#dsinfo_2.12;0.4.0!dsinfo_2.12.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.12.8!scala-library.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.google.guava#guava;21.0!guava.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.google.code.findbugs#jsr305;3.0.2!jsr305.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.bitbucket.inkytonik.kiama#kiama_2.12;2.1.0!kiama_2.12.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.3!jline.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.rogach#scallop_2.12;2.1.1!scallop_2.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.3!jline.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] junit#junit;4.12!junit.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalacheck#scalacheck_2.12;1.13.5!scalacheck_2.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.bitbucket.inkytonik.kiama#kiama_2.12;2.1.0!kiama_2.12.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.8!scala-reflect.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalacheck#scalacheck_2.12;1.13.5!scalacheck_2.12.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.0.3!scalatest_2.12.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalactic#scalactic_2.12;3.0.3!scalactic_2.12.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.3!hamcrest-core.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.5!scala-xml_2.12.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4!scala-parser-combinators_2.12.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalactic#scalactic_2.12;3.0.3!scalactic_2.12.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.8!scala-compiler.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.6!jline.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 220ms :: artifacts dl 7ms[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 compile produced in C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-compile.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 runtime produced in C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-runtime.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 test produced in C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-test.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 provided produced in C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-provided.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 optional produced in C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-optional.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 compile-internal produced in C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-compile-internal.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 runtime-internal produced in C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-runtime-internal.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 test-internal produced in C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-test-internal.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 plugin produced in C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-plugin.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 pom produced in C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-pom.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 scala-tool produced in C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-scala-tool.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	resolve done (220ms resolve - 7ms download)[0m
+[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 236ms :: artifacts dl 7ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 compile produced in C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-compile.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 runtime produced in C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-runtime.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 test produced in C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-test.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 provided produced in C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-provided.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 optional produced in C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-optional.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 compile-internal produced in C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-compile-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 runtime-internal produced in C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-runtime-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 test-internal produced in C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-test-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 plugin produced in C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-plugin.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 pom produced in C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-pom.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for comp.mq.edu.au#comp3000-ass3_2.12;0.1 scala-tool produced in C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\target\scala-2.12\resolution-cache\reports\comp.mq.edu.au-comp3000-ass3_2.12-scala-tool.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	resolve done (236ms resolve - 7ms download)[0m
 [0m[[0m[0minfo[0m] [0m[0mDone updating.[0m

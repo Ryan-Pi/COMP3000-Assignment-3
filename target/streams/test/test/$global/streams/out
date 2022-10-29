@@ -1,7 +1,7 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(funlang.ExecTests, org.scalatest.tools.Framework$$anon$1@a8cb3f3, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(funlang.ExecTests, org.scalatest.tools.Framework$$anon$1@4ad35608, false, [SuiteSelector])[0m
 [0m[[0m[0mdebug[0m] [0m[0mSummary for ScalaCheck not available.[0m
 [0m[[0m[0minfo[0m] [0m[0mScalaTest[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 692 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 412 milliseconds.[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 51[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 41, failed 10, canceled 0, ignored 0, pending 0[0m[0m
