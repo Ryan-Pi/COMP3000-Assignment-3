@@ -1,0 +1,64 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mExecTests in library/src/test/scala/funlang:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- IF: a true less-than conditional expression evaluates to the correct result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a false less-than conditional expression evaluates to the correct result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- translate if(true) 3 else 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- LIST: list()[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- list (4, 3, 7)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- APP EXP: head(List(2, 1, 4))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- BLOCK ONE DEF: a single def evaluates to the correct result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a block with a calculation evaluates to the correct result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- translate { val x : Int = 3; x + 4 }[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- BLOCK ONE DEF FUN: a block with a single function definition evaluates to the correct result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a single function block evaluates to the correct result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- translate { val f ... ; f(4) }[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- BLOCK MULT DEF: a multiple def block evaluates to the correct result (use first def)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a multiple def block evaluates to the correct result (use second def)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- BLOCK MULT DEF FUN: a multiple function block evaluates to the correct result (use first fun)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- translate { val f ... ; def g ... ; (f 4) + (g 4) }[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- BLOCK NESTED ONE DEF: simple block in block[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- BLOCK NESTED ONE DEF FUN: backward reference is evaluated correctly (same group)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a function using a val is evaluated correctly (1)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a function using a val is evaluated correctly (2)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- BLOCK COMPLEX: a multiple function block with vals before and after evaluates to the correct result (use both funs)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- call with call argument is evaluated correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- translate { val w = 7;  ... ; val z = f(w); f(z) + g(4) }[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- SIMPLE MATCHES: translate match case 3 => 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- execute match case 3 => 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- execute match case 3 => 2 with 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- execute match case false = 6[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- translate match case n = 2 * n[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- execute match case n => 2 * n with 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- translate match case _ => 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- execute match case _ = 7 with 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- FACTORIAL: translate fac *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected List(IClosure(fac,List(IVar(fac), IInt(3), ICall(), IPopEnv())), IClosure(a,List(IClosure(x,List(IVar(x), IInt(0), IEqual(), IBranch(List(IInt(1)),List(IClosure(n,List(IVar(n), IVar(fac), IVar(n), IInt(1), ISub(), ICall(), IMul(), IPopEnv())), IVar(x), ICall())), IPopEnv())), IVar(a), ICall(), IPopEnv())), ICall(), IPrint()), but got List(IClosure(fac,List(IVar(fac), IInt(3), ICall(), IPopEnv())), IClosure(a,List(IClosure(x,List(IVar(x), IInt(0), IEqual(), IBranch(List(IInt(1)),List(IInt(999))), IPopEnv())), IVar(a), ICall(), IPopEnv())), ICall(), IPrint()) wrong translation output (ExecTests.scala:92)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- execute fac with 3 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected "[6][0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ", but got "[999][0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  " wrong execution output (ExecTests.scala:79)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- LIST PATTERNS: execute case List() *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- execute case List(8) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- execute case List(k) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- execute case List(_, u) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- execute case List(r, 1, s) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- CONS PATTERNS: execute case 3::_ *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- execute case g::h *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  value expected for print (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- execute len(List(7, 4, 7)) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  value expected for print (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a true expression evaluates to the correct result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a false expression evaluates to the correct result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- app expression with tail is translated correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- app expression with length is translated correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- list with one element is tranlated correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- list with two elements is translated correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- list with a non-integer expression is translated correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- list with multiple non-integer expressions is handled properly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- list with integer and non-integer expressions is handled properly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- execute match case n => 2 / n with 2[0m[0m

@@ -1,0 +1,1639 @@
+2022.10.27 13:31:40 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\.metals\lsp.trace.json or C:\Users\sword\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.27 13:31:40 INFO  logging to file C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\.metals\metals.log
+2022.10.27 13:31:40 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3' for client Visual Studio Code 1.72.2.
+2022.10.27 13:31:42 INFO  time: initialize in 1.25s
+2022.10.27 13:31:43 WARN  Build server is not auto-connectable.
+2022.10.27 13:32:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.27 13:32:25 INFO  no build target found for C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.27 13:32:26 INFO  time: code lens generation in 5.3s
+2022.10.27 13:39:16 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.27 13:40:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.27 14:19:20 INFO  shutting down Metals
+2022.10.29 13:25:53 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\.metals\lsp.trace.json or C:\Users\sword\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.29 13:25:54 INFO  logging to file C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\.metals\metals.log
+2022.10.29 13:25:54 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3' for client Visual Studio Code 1.72.2.
+2022.10.29 13:25:55 INFO  time: initialize in 1.21s
+2022.10.29 13:25:56 WARN  Build server is not auto-connectable.
+2022.10.29 13:25:56 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 13:26:01 INFO  no build target found for C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.29 13:26:03 INFO  time: code lens generation in 5.99s
+2022.10.29 13:26:03 INFO  time: code lens generation in 1.7s
+2022.10.29 13:39:32 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\SECTree.scala
+2022.10.29 13:39:32 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 13:39:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\SECMachine.scala
+2022.10.29 13:39:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\SECTree.scala
+2022.10.29 13:40:54 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 13:40:59 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\SECTree.scala
+2022.10.29 13:46:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Main.scala
+2022.10.29 13:48:41 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 13:49:03 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 13:49:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 13:49:32 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 13:50:12 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 13:50:41 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 13:50:51 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 13:51:11 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 13:53:02 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 14:01:17 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:02:32 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:02:45 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:02:58 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:06:35 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:06:40 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:11:25 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:11:35 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:13:39 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:13:50 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:13:57 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:17:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:20:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:20:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:21:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2662
+Oct. 29, 2022 2:21:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:21:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:21:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2718
+Oct. 29, 2022 2:21:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:21:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:21:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:21:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:21:23 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:21:35 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:22:00 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:22:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:22:37 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:23:00 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:23:09 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:24:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:24:29 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:24:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:24:51 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:25:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:25:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:25:09 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:25:29 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:25:52 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:26:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:27:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:27:29 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:28:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:28:53 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:29:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:31:14 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+Oct. 29, 2022 2:31:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:31:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:31:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:31:53 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:32:05 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:32:24 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:32:25 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:32:32 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:32:38 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:32:58 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 14:34:25 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:34:27 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:34:31 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:36:45 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+Oct. 29, 2022 2:37:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:37:57 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:38:54 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:39:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:39:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:39:18 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:39:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:39:35 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:40:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:40:33 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:40:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:40:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:40:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:41:05 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:41:21 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:41:25 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:41:32 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:41:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:41:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:41:45 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:42:12 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:42:15 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:43:19 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:43:31 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:43:41 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:44:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:44:30 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:44:39 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:44:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:44:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:44:57 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:45:18 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:45:19 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:45:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:46:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:46:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:46:24 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:46:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:46:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:47:10 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:47:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4671
+2022.10.29 14:47:49 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:47:59 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:48:02 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:48:11 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:49:10 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:49:13 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:49:59 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:50:10 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:51:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:51:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:51:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:51:41 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:51:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:51:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:51:58 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:52:16 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:52:27 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:53:04 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:53:10 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:53:11 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:53:29 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:53:43 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:53:52 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:54:14 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:54:27 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:55:38 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:55:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:56:00 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:56:13 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:56:56 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 14:57:15 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 14:58:19 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:58:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:58:49 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:59:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:59:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:59:19 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:59:21 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:59:27 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:59:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 2:59:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 2:59:42 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 14:59:42 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 14:59:59 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:02:46 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:02:57 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:03:14 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:03:24 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:03:52 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:04:05 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:04:31 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:04:37 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:06:17 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 3:06:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 15:06:33 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:06:55 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 3:07:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 3:07:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 15:07:02 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:08:02 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:08:12 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:08:21 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:08:42 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:08:45 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:08:56 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:09:17 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 3:11:33 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 3:11:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 15:11:48 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:14:00 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+Oct. 29, 2022 3:14:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 15:14:39 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:14:53 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:15:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 3:17:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 3:17:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 15:17:29 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:17:40 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:17:54 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:17:57 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:19:23 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:19:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:19:46 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:19:51 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:20:02 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:20:33 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:20:35 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 3:20:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6315
+2022.10.29 15:20:41 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 3:21:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 3:22:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 3:22:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 3:22:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 3:22:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 15:22:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:22:41 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:22:52 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:23:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:23:09 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:23:35 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:49:03 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 3:49:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 15:49:13 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:50:22 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:50:42 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:50:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 3:52:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 15:52:30 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 15:52:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:53:32 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:53:41 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:53:49 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 3:54:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 3:54:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 15:54:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 3:54:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 3:54:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 29, 2022 3:54:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 15:54:59 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:55:12 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:55:18 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:57:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:57:49 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 15:57:56 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 16:01:21 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 16:33:10 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 16:33:55 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 16:35:14 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 16:35:19 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 16:35:28 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 16:35:29 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 17:46:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 17:46:37 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 17:46:39 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 17:48:37 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 17:50:41 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 17:51:05 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 17:53:14 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 17:53:22 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+Oct. 29, 2022 5:53:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.29 17:53:24 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 17:53:45 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 17:58:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 17:59:58 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 18:00:13 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 18:00:33 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 18:00:57 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 18:01:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 18:03:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:04:01 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:04:42 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:04:49 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:05:28 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:05:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:07:13 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:07:40 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:07:59 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:08:18 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:08:25 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:11:10 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:14:25 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:14:30 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:14:42 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:15:05 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:15:15 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:15:27 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:16:12 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:16:22 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:16:37 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:18:05 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:18:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:18:16 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:18:45 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:20:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:22:48 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:23:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:25:52 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:26:03 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:26:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:26:59 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:28:16 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:28:40 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:28:49 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:31:48 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:31:54 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:32:02 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:32:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:32:19 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:32:39 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:32:49 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:32:59 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:33:04 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:33:33 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:34:16 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 6:35:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10187
+2022.10.29 18:35:31 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:35:40 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:37:02 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:38:10 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:38:16 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:41:54 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:41:57 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:42:16 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:42:17 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:42:21 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:42:33 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:42:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:42:46 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:43:02 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:43:46 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:44:28 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:44:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:44:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:45:12 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:45:26 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:45:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:46:17 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:46:35 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:47:15 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:47:23 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:47:30 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:47:48 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:47:54 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:48:38 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:48:42 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:49:39 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:51:32 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:51:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:51:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:51:45 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 6:52:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10935
+Oct. 29, 2022 6:52:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10937
+2022.10.29 18:52:47 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:52:53 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:52:58 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:52:59 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 6:53:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11003
+2022.10.29 18:53:48 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:54:02 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:55:21 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:55:30 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:55:56 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:55:59 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:56:10 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:56:18 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:56:40 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:56:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:57:18 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 18:57:26 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 7:03:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11403
+Oct. 29, 2022 7:05:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11488
+Oct. 29, 2022 7:06:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11517
+Oct. 29, 2022 7:06:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11525
+2022.10.29 19:09:33 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:10:09 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:10:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:13:51 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:15:14 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:15:37 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:15:38 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:17:01 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:17:04 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:17:06 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:17:49 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 7:18:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12207
+2022.10.29 19:18:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:18:24 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:18:31 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:18:47 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:19:05 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:19:14 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:19:34 INFO  time: code lens generation in 15s
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12291
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12295
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12296
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12298
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12299
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12301
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12302
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12303
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12305
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12306
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12307
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12309
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12310
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12312
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12311
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12313
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12314
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12315
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12317
+2022.10.29 19:19:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12318
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12319
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12322
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12320
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12324
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12325
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12328
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12329
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12333
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12337
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12338
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12340
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12342
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12293
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12346
+Oct. 29, 2022 7:19:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12345
+2022.10.29 19:19:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:19:50 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:19:57 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 29, 2022 7:25:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12547
+2022.10.29 19:39:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:40:04 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:40:29 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:40:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:42:03 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:42:11 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:43:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:44:49 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:44:58 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:47:05 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.29 19:49:11 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:49:17 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:49:49 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:50:00 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:50:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:52:55 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:53:09 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:53:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:53:25 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.29 19:55:40 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 04:51:21 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 04:52:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 04:53:06 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 30, 2022 4:53:49 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 30, 2022 4:53:50 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+Oct. 30, 2022 4:53:56 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:436)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:156)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:91)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:61)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:22)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:56)
+
+2022.10.30 04:53:56 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 04:54:01 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 04:57:11 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 04:57:23 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 04:57:27 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 04:57:39 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 04:59:00 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 04:59:24 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 04:59:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 04:59:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:00:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:00:11 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:00:12 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:00:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:00:52 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:00:59 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:01:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:01:26 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:01:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:02:12 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:02:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:02:23 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:02:50 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:03:19 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:03:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:03:37 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:05:06 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:05:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:05:16 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:05:19 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:05:33 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:05:51 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:06:29 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:07:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:07:15 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:07:26 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:07:53 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:08:58 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:09:28 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:09:46 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:09:52 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:09:55 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:11:09 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:11:18 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:11:21 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:12:09 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:15:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:15:13 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:15:40 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:15:45 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:15:52 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:15:59 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:16:02 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:16:47 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:16:49 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:17:03 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:17:10 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:17:35 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:17:42 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:17:54 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:20:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:21:55 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:22:03 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:23:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:23:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:23:58 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:24:06 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:24:29 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:24:32 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:24:54 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:25:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:25:49 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:26:09 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:26:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:26:41 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:27:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:27:10 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:27:18 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:27:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:27:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:28:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:28:54 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:29:16 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:29:28 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:29:37 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:29:40 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:30:13 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:30:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:30:27 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:31:19 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:31:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:32:31 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:32:46 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:33:04 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:33:31 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:33:38 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:33:52 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:35:51 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:36:03 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 05:36:19 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:36:45 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:37:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:39:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:40:19 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:41:37 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:41:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:41:51 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:42:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:43:24 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:43:40 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:44:30 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:46:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:46:29 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:46:31 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:46:39 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:46:45 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:16 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:17 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:17 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:20 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:33 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:45 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:45 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:47:52 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:48:05 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:49:14 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:50:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:50:37 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:54:14 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.30 06:54:18 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.30 06:54:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:55:11 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:55:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:55:46 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:56:40 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:56:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:56:51 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:57:37 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:57:51 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 06:58:26 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:00:19 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:00:29 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:01:47 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:01:53 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:01:58 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:02:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:02:56 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:04:21 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:04:31 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:04:42 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:05:58 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:06:34 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:08:46 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:09:31 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:09:39 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:09:43 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:10:05 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:10:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:10:41 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:11:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:12:03 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:12:11 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:12:49 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:13:40 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:14:52 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:15:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:15:54 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:16:26 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:16:37 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:16:50 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:16:55 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:17:03 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:17:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:17:44 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:17:52 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:18:17 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:18:45 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:18:51 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:19:32 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:19:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 30, 2022 7:20:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "untitled:Untitled-1"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor8.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "untitled" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:97)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:117)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:143)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:609)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:606)
+	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:1169)
+	... 15 more
+
+2022.10.30 07:20:27 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.30 07:20:37 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:20:51 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:21:06 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.30 07:22:01 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:22:04 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:22:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:22:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:22:35 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:22:39 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:23:00 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:23:03 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:23:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:23:11 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:23:21 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:24:21 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:24:31 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:24:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:24:42 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:25:22 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:25:33 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:26:15 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:26:21 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:26:32 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:26:36 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:27:54 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+Oct. 30, 2022 7:28:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19120
+2022.10.30 07:28:32 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:28:40 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:29:50 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:30:56 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:31:16 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:32:10 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:32:18 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:33:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:33:42 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:34:22 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\test\scala\ExecTests.scala
+2022.10.30 07:36:17 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:36:27 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:41:22 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala
+2022.10.30 07:41:23 INFO  shutting down Metals
+2022.10.30 07:42:58 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\sword\Desktop\COMP3000\ass3\Assignment 3\.metals\lsp.trace.json or C:\Users\sword\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.30 07:42:59 INFO  logging to file C:\Users\sword\Desktop\COMP3000\ass3\Assignment 3\.metals\metals.log
+2022.10.30 07:42:59 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\sword\Desktop\COMP3000\ass3\Assignment 3' for client Visual Studio Code 1.72.2.
+2022.10.30 07:43:00 INFO  time: initialize in 1.17s
+2022.10.30 07:43:01 WARN  Build server is not auto-connectable.
+2022.10.30 07:43:01 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\ass3\Assignment 3\src\main\scala\Translator.scala
+2022.10.30 07:43:01 INFO  skipping build import with status 'Dismissed'
+2022.10.30 07:43:03 INFO  no build target found for C:\Users\sword\Desktop\COMP3000\ass3\Assignment 3\src\main\scala\Translator.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.30 07:43:05 INFO  time: code lens generation in 3.16s
+2022.10.30 07:43:06 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\ass3\Assignment 3\src\test\scala\ExecTests.scala
+Oct. 30, 2022 7:43:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2022.10.30 07:43:09 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\ass3\Assignment 3\src\main\scala\Translator.scala
+2022.10.30 07:43:52 INFO  shutting down Metals
+2022.10.30 07:44:11 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\.metals\lsp.trace.json or C:\Users\sword\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.30 07:44:11 INFO  logging to file C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\.metals\metals.log
+2022.10.30 07:44:11 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3' for client Visual Studio Code 1.72.2.
+2022.10.30 07:44:12 INFO  time: initialize in 1.12s
+2022.10.30 07:44:14 WARN  Build server is not auto-connectable.
+2022.10.30 07:44:14 INFO  skipping build import with status 'Dismissed'
+2022.10.30 07:45:17 INFO  shutting down Metals
