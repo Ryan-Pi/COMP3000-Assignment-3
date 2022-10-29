@@ -1637,3 +1637,21 @@ WARNING: Unmatched cancel notification for request id 6
 2022.10.30 07:44:14 WARN  Build server is not auto-connectable.
 2022.10.30 07:44:14 INFO  skipping build import with status 'Dismissed'
 2022.10.30 07:45:17 INFO  shutting down Metals
+2022.10.30 07:46:01 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\.metals\lsp.trace.json or C:\Users\sword\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.30 07:46:02 INFO  logging to file C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\.metals\metals.log
+2022.10.30 07:46:02 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3' for client Visual Studio Code 1.72.2.
+2022.10.30 07:46:03 INFO  time: initialize in 1.21s
+2022.10.30 07:46:04 WARN  Build server is not auto-connectable.
+2022.10.30 07:46:04 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\src\main\scala\Translator.scala
+2022.10.30 07:46:04 INFO  skipping build import with status 'Dismissed'
+2022.10.30 07:46:07 INFO  no build target found for C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\src\main\scala\Translator.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.30 07:46:07 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\src\test\scala\ExecTests.scala
+2022.10.30 07:46:08 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\src\main\scala\Translator.scala
+2022.10.30 07:46:09 INFO  time: code lens generation in 1.58s
+2022.10.30 07:46:09 INFO  time: code lens generation in 3.72s
+2022.10.30 07:46:09 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\src\test\scala\ExecTests.scala
+2022.10.30 07:46:13 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\src\main\scala\Translator.scala
+2022.10.30 07:46:19 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\src\test\scala\ExecTests.scala
+2022.10.30 07:46:22 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\src\main\scala\Translator.scala
+2022.10.30 07:46:29 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\src\main\scala\Translator.scala
+2022.10.30 07:47:23 WARN  no build target for: C:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\src\main\scala\Translator.scala

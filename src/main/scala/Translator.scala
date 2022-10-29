@@ -194,7 +194,7 @@ object Translator {
                             case AnyPat() =>
                                 genall(translateExpression(BlockExp(Vector(Defn(IdnDef("x", IntType()), exp)), b)))
                             case _ =>
-                                //println(a)
+                                //println(a) test
                         }
                         
                         
