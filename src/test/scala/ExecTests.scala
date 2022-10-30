@@ -591,9 +591,6 @@ class ExecTests extends ParseTests {
             "3")
     }
 
-    //test if statements with AppExp
-
-
     // test AppExp
 
 
@@ -613,8 +610,6 @@ class ExecTests extends ParseTests {
             "3")
     }
 
-    //test if general app expression is working
-
     // test ListExp
 
     //test if list with one element is translated
@@ -633,8 +628,8 @@ class ExecTests extends ParseTests {
             "List(4, 3)")
     }
 
-    //test if list with an expression that is not an intger is handled properly
-                test ("list with a non-integer expression is translated correctly") {
+    //test if list with an expression that is not an integer is handled properly
+                test ("list with a non-integer expression is handled properly") {
         execTest ("""
             |List(4+7)
             """.stripMargin,
@@ -659,12 +654,48 @@ class ExecTests extends ParseTests {
             "List(9, 3, 5)")
     }
 
-
-
-
     // test BlockExp
 
     //test cascading blocks multiple definitions
+
+        test ("block multiple nested test 1") {
+        execTest ("""
+            |{
+            |  val j : Int => Int = (z : Int) => z + 5;
+            |  {val g : Int => Int = (x : Int) => x * 2 + j(x);
+            |  { val h : Int => Int = (y : Int) => g(y);
+            |    h(3)}
+            |   }
+            |}
+            """.stripMargin,
+            "14")
+    }
+
+            test ("block multiple nested test 2") {
+        execTest ("""
+            |{
+            |  val j : Int => Int = (z : Int) => z * 3;
+            |  {val g : Int => Int = (x : Int) => x * 2;
+            |  { val h : Int => Int = (y : Int) => g(y);
+            |    h(3) + j(5)}
+            |   }
+            |}
+            """.stripMargin,
+            "21")
+    }
+
+                test ("block multiple nested test 3") {
+        execTest ("""
+            |{
+            |  val j : Int => Int = (z : Int) => z * 3;
+            |  {val g : Int => Int = (x : Int) => x * 2;
+            |  { val h : Int => Int = (y : Int) => g(y) + j(2);
+            |    h(3)}
+            |   }
+            |}
+            """.stripMargin,
+            "12")
+    }
 
     // test MatchExp
 
@@ -679,11 +710,156 @@ class ExecTests extends ParseTests {
                 "5")
     }
 
-    //test match in match
-
     //test match true
 
-    //test
+            test ("execute match case true => 5 with true")
+    {
+        execTest("""
+                |true match
+                |{
+                |case true => 5
+                |}
+                """.stripMargin,
+                "5")
+    }
+
+    //test match false
+                test ("execute match case true => 19 with false")
+    {
+        execTest("""
+                |false match
+                |{
+                |case true => 19
+                |}
+                """.stripMargin,
+                "999")
+    }
+
+    //test matching factorial with different identifier e.g. using x instead of n
+
+        test ("execute fac  using different identifier (x instead of n)")
+    {
+        execTest("""
+                |{
+                |  def fac(a : Int) : Int = a match
+                |  {
+                |  case 0 => 1
+                |  case x => x * fac (x - 1)
+                |  };
+                |  fac(3)
+                |}
+                """.stripMargin,
+                "6")
+    }
+
+    //test matching cons with literal :: identifier
+
+            test ("execute case 7::t")
+    {
+        execTest("""
+                |{
+                |  def foo(s : List[Int]) : Int = s match
+                |  {
+                |  case 7::t => 2 + t
+                |  };
+                |  1000 * foo(List(7, 2)) + foo(List(5,2))
+                |}
+                """.stripMargin,
+                "4999")
+    }
+
+    //test matching cons with any :: 
+
+        test ("execute case _::t")
+    {
+        execTest("""
+                |{
+                |  def foo(s : List[Int]) : Int = s match
+                |  {
+                |  case _::t => 2 + t
+                |  };
+                |  1000 * foo(List(3, 4)) + foo(List(5))
+                |}
+                """.stripMargin,
+                "6999")
+    }
+
+    //test matching list(_)
+        test ("execute case List(_)")
+    {
+        execTest("""
+                |{
+                |  def foo(s : List[Int]) : Int = s match
+                |  {
+                |  case List(_) => 3
+                |  };
+                |  1000 * foo(List(9)) + foo(List(7, 2))
+                |}
+                """.stripMargin,
+                "3999")
+    }
+
+    //check list pattern matching for length 2 list and identifier as head
+        test ("execute case List(d, _) to check pattern matching for length 2 list with head")
+    {
+        execTest("""
+                |{
+                |  def foo(s : List[Int]) : Int = s match
+                |  {
+                |  case List(d, _) => d + 3
+                |  };
+                |  1000 * foo(List(1, 4)) + foo(List(3, 4, 5))
+                |}
+                """.stripMargin,
+                "3999")
+    }
+
+    //check list pattern for length 2 list with only _
+            test ("execute case List(_, _) to check pattern matching for length 2 list with only _")
+    {
+        execTest("""
+                |{
+                |  def foo(s : List[Int]) : Int = s match
+                |  {
+                |  case List(_, _) => 5
+                |  };
+                |  1000 * foo(List(1, 4)) + foo(List(3, 4, 5))
+                |}
+                """.stripMargin,
+                "5999")
+    }
+
+    //check list pattern for length 3 list with identifier, literal and _
+
+        test ("execute case List(r, 1, _)")
+    {
+        execTest("""
+                |{
+                |  def foo(s : List[Int]) : Int = s match
+                |  {
+                |  case List(r, 1, _) => 3 * r 
+                |  };
+                |  1000 * foo(List(3, 1, 2)) + foo(List(3, 4, 5))
+                |}
+                """.stripMargin,
+                "9999")
+    }
+
+    //check list pattern for length 3 list with all identifiers
+            test ("execute case List(r, s, t)")
+    {
+        execTest("""
+                |{
+                |  def foo(s : List[Int]) : Int = s match
+                |  {
+                |  case List(r, s, t) => r + s + t
+                |  };
+                |  1000 * foo(List(3, 1, 2)) + foo(List(3, 4, 5))
+                |}
+                """.stripMargin,
+                "6012")
+    }
+
 
 }
 

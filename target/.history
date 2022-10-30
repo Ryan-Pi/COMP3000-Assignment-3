@@ -10,3 +10,30 @@ test\
 test
 test\
 test
+test\
+test
+run test/test.fun
+test
+run test/test.fun
+test
+run test/test.fun
+test
+run test/test.fun
+test
+run test/function.fun
+run test/test.fun
+test
+run test/test.fun
+test
+run test/test.fun
+test
+run test/test.fun
+test
+run test/test.fun
+test
+run test/test.fun
+test
+run test/test.fun
+test
+run test/function.fun
+test

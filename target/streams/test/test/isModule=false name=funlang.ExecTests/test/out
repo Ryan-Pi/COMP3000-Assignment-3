@@ -30,35 +30,48 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- execute match case n => 2 * n with 3[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- translate match case _ => 7[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- execute match case _ = 7 with 3[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- FACTORIAL: translate fac *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  Expected List(IClosure(fac,List(IVar(fac), IInt(3), ICall(), IPopEnv())), IClosure(a,List(IClosure(x,List(IVar(x), IInt(0), IEqual(), IBranch(List(IInt(1)),List(IClosure(n,List(IVar(n), IVar(fac), IVar(n), IInt(1), ISub(), ICall(), IMul(), IPopEnv())), IVar(x), ICall())), IPopEnv())), IVar(a), ICall(), IPopEnv())), ICall(), IPrint()), but got List(IClosure(fac,List(IVar(fac), IInt(3), ICall(), IPopEnv())), IClosure(a,List(IClosure(x,List(IVar(x), IInt(0), IEqual(), IBranch(List(IInt(1)),List(IInt(999))), IPopEnv())), IVar(a), ICall(), IPopEnv())), ICall(), IPrint()) wrong translation output (ExecTests.scala:92)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- execute fac with 3 *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  Expected "[6][0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  ", but got "[999][0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  " wrong execution output (ExecTests.scala:79)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- LIST PATTERNS: execute case List() *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- execute case List(8) *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- execute case List(k) *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- FACTORIAL: translate fac[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- execute fac with 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- LIST PATTERNS: execute case List()[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- execute case List(8)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- execute case List(k)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m- execute case List(_, u) *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in add (ExecTests.scala:81)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m- execute case List(r, 1, s) *** FAILED ***[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- CONS PATTERNS: execute case 3::_ *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- CONS PATTERNS: execute case 3::_[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m- execute case g::h *** FAILED ***[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m  value expected for print (ExecTests.scala:81)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m- execute len(List(7, 4, 7)) *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  value expected for print (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected "[3][0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ", but got "[999][0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  " wrong execution output (ExecTests.scala:79)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- a true expression evaluates to the correct result[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- a false expression evaluates to the correct result[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- app expression with tail is translated correctly[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- app expression with length is translated correctly[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- list with one element is tranlated correctly[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- list with two elements is translated correctly[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- list with a non-integer expression is translated correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- list with a non-integer expression is handled properly[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- list with multiple non-integer expressions is handled properly[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- list with integer and non-integer expressions is handled properly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- block multiple nested test 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- block multiple nested test 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- block multiple nested test 3[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- execute match case n => 2 / n with 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- execute match case true => 5 with true[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- execute match case true => 19 with false[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- execute fac  using different identifier (x instead of n)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- execute case 7::t *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- execute case _::t *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- execute case List(_)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- execute case List(d, _) to check pattern matching for length 2 list with head *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- execute case List(_, _) to check pattern matching for length 2 list with only _ *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- execute case List(r, 1, _) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- execute case List(r, s, t) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  int and int expected in mul (ExecTests.scala:81)[0m[0m

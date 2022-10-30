@@ -1,4 +1,6 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\sword\Desktop\COMP3000\assignment 3\comp3000-funlang3\src\main\scala\Translator.scala:191:29: ')' expected but 'case' found.[0m
-[0m[[0m[31merror[0m] [0m[0m                            case IdentPat(d) =>[0m
-[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\sword\Desktop\COMP3000\ass3\COMP3000 Assignment 3\src\main\scala\Translator.scala:338:217: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: funlang.FunLangTree.Exp[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                        genall(translateExpression(BlockExp(Vector(Defn(IdnDef("x", IntType()), exp)), IfExp(EqualExp(IntExp(2), AppExp(IdnUse("length"), exp)), println("TRUE"), IntExp(999)))))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                                                        ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
